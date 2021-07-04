@@ -14,3 +14,7 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.fb-login-button {border:3px solid red;
+
+height:50px;}
